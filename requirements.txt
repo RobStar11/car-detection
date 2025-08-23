@@ -1,0 +1,7 @@
+torch
+trochvision
+opencv-python
+requests
+tqdm
+matplotlib
+packaging
