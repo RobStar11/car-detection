@@ -1,7 +1,9 @@
 torch
-trochvision
+torchvision
 opencv-python
 requests
 tqdm
 matplotlib
 packaging
+ultralitycs
+seaborn
